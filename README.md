@@ -15,9 +15,7 @@ Advanced-Windows-Shell/
 ├── src/
 │   └── main.c           # Complete shell implementation
 ├── README.md            # This documentation
-├── LICENSE              # Project license
-└── docs/
-    └── examples.md      # Usage examples and tutorials
+
 ```
 
 ## ✨ Features
